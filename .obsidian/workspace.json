@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ru/grammar/substantiv/articles.md",
+                "file": "ru/grammar/verb/main-verb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "articles"
+              "title": "main-verb"
             }
           }
         ]
@@ -191,12 +191,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e2c513b6977349d",
+  "active": "1c2c315b13230af9",
   "lastOpenFiles": [
-    "ru/grammar/substantiv/kasus.md",
     "ru/grammar/substantiv/main-substantiv.md",
-    "README.md",
+    "ru/grammar/substantiv/kasus-akkusativ.md",
+    "ru/grammar/substantiv/kasus.md",
     "ru/grammar/substantiv/articles.md",
+    "README.md",
     "ru/grammar/verb/main-verb.md",
     "ru/grammar/verb",
     "ru/grammar/konjugation.md",
